@@ -1642,7 +1642,7 @@ input, select, textarea {
 
 /* Modified */
 	#rb-icon{
-		margin-top: 15px;
+		vertical-align: middle;
 	}
 
 

@@ -1616,11 +1616,12 @@ input, select, textarea {
 	}
 
 		#footer .copyright {
-			letter-spacing: 0.2rem;
+			/*letter-spacing: 0.2rem;*/
+			letter-spacing: 0.1rem;
 			font-size: 0.6rem;
 			opacity: 0.75;
 			margin-bottom: 0;
-			text-transform: uppercase;
+			/*text-transform: uppercase;*/
 		}
 
 		body.is-article-visible #footer {
@@ -1645,6 +1646,14 @@ input, select, textarea {
 		vertical-align: middle;
 	}
 
+/* footer */
+	#info{
+		margin: 1rem 0 1rem 0;
+	}
+
+	#copy{
+	    margin: 0 0 0 0;
+	}
 
 
 

@@ -1649,8 +1649,11 @@ input, select, textarea {
 /* footer */
 	#info{
 		margin: 1rem 0 1rem 0;
+		
 	}
-
+	#info a{
+		border-bottom: 0px;
+	}
 	#copy{
 	    margin: 0 0 0 0;
 	}
